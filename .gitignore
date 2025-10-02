@@ -8,3 +8,4 @@ Optimization Algorithms/data
 data/*
 Computational Performance/my_mlp
 Computer Vision/data/*
+Natural Language Processing/Pretraining/ptb/*
