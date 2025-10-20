@@ -9,6 +9,7 @@ data/*
 Computational Performance/my_mlp
 Computer Vision/data/*
 Natural Language Processing/Pretraining/ptb/*
-Natural Language Processing/Pretraining/glove.6B.50d
+Natural Language Processing/glove.6B.50d
 Natural Language Processing/Pretraining/wikitext
 Natural Language Processing/Applications/aclImdb    
+Natural Language Processing/Applications/snli_1.0
