@@ -13,3 +13,4 @@ Natural Language Processing/glove.6B.50d
 Natural Language Processing/Pretraining/wikitext
 Natural Language Processing/Applications/aclImdb    
 Natural Language Processing/Applications/snli_1.0
+Natural Language Processing/Applications/bert.small.torch/*
